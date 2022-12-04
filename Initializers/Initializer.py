@@ -11,3 +11,7 @@ class Initializer:
 
         self.weights, self.bias = self.technique(self.n_neurons, self.n_inputs)
         return self.weights, self.bias
+
+
+
+
