@@ -1,6 +1,6 @@
 # WorstNN
 This is an attempt to make a Deep Learning Library from scratch for educational purposes. <br><br>
-<b>Remember, this is just for understanding how NN works, I don't intend to compete with the likes of TensorFlow and PyTorch (as if I could, lol)<b>
+<b>Remember, this is just for understanding how NN works, I don't intend to compete with the likes of TensorFlow and PyTorch (as if I could, lol)</b>
 
 ## What to expect?
 Implemented the following so far: <br>
